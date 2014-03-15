@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jfinal">
+    <CLASSES>
+      <root url="file://$USER_HOME$/javalib/jfinal" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/javalib/jfinal" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jetty-server-8.1.8-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/guava-16.0.1-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/javalib/jfinal" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/javalib/jfinal" recursive="false" type="SOURCES" />
+  </library>
+</component>

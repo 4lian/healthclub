@@ -1,0 +1,2 @@
+<link rel="icon" href="/images/icon/favicon.png" mce_href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/images/icon/small-favicon.ico" mce_href="/favicon.ico" type="image/x-icon">

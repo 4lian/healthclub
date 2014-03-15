@@ -1,0 +1,12 @@
+<script type="text/javascript" src="/js/lib/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" src="/js/lib/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/lib/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="/js/lib/jquery.dataTables.js"></script>
+<script type="text/javascript" src="/js/lib/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="/js/lib/zebra_dialog.js"></script>
+<script type="text/javascript" src="/js/lib/highchats/highcharts.js"></script>
+<script type="text/javascript" src="/js/lib/highchats/themes/dark-green.js"></script>
+<script type="text/javascript" src="/js/lib/highchats/modules/exporting.js"></script>
+<script type="text/javascript" src="/js/lib/highchats/modules/annotations.js"></script>
+<script type="text/javascript" src="/js/lib/highchats/modules/drilldown.js"></script>
+<script type="text/javascript" src="/js/lib/back.js"></script>
